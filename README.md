@@ -1,2 +1,3 @@
 # MyCodewarsSolutions
-Solutions for problems solved in Codewars.com
+My solutions for problems solved in Codewars.com
+All of the solutions are done using python
