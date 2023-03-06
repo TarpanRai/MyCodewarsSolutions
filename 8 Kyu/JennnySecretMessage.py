@@ -1,5 +1,4 @@
-
-
+# Bruh this is too easy
 
 def greet(name):
     if name == "Johnny":
